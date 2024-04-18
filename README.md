@@ -1,1 +1,2 @@
 # GraduationThesis
+This paper uploads a complete folder containing all experimental source codes to github. Under this folder, uncomment the code in the epr script line by line and run it. The experimental results will be output in the form of a text document. Then use a python script to draw in the draw folder and output the image in png format. For details about the principles of the simulator, you can view and modify the source code in the src file.

@@ -1,1 +1,11 @@
-
+python3 draw_ostRatio.py    "todraw/0329_20:29:35_ostRatio#200times";
+python3 draw_dtime.py       "todraw/0401_16:49:12_dtime_ost#100times" "todraw/0401_21:02:33_dtime_msk#100times";
+python3 draw_flN.py         "todraw/0402_00:53:43_flN_ost#100times" "todraw/0402_02:36:23_flN_msk#100times";
+python3 draw_Ipps.py        "todraw/0402_04:18:55_Ipps#100times";
+python3 draw_Ipps2.py       "todraw/0402_05:26:31_Ipps_sIntv#100times";
+python3 draw_mskVsOst.py    "todraw/0402_07:23:15_mskVsOst_norm50#190times";
+python3 draw_mskVsOst.py    "todraw/0402_15:00:02_mskVsOst_norm15#190times";
+## python3 draw_msk.py         "../out/0329_19:19:07_msk#10times";
+## python3 draw_divdCoef.py    "";
+## python3 draw_regAccess.py   "todraw/0329_20:29:35_ostRatio#200times";
+## python3 draw_ppsNodiff.py   "";
